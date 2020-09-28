@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "final.css",
+	"sources": [
+		"../scss/final.scss"
+	],
+	"sourcesContent": [
+		"*{\r\n    padding: 0px;\r\n    margin: 0px;\r\n    box-sizing: border-box;\r\n}\r\nnav{\r\n    display: flex;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    min-height: 8vh;\r\n    background-color: #0f4c82;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AAAA,CAAC,CAAA;EACG,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,GAAG;EACX,UAAU,EAAE,UAAU;CACzB;;;AACD,AAAA,GAAG,CAAA;EACC,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;EAC7B,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,GAAG;EACf,gBAAgB,EAAE,OAAO;CAC5B"
+}
